@@ -1,0 +1,30 @@
+Sun, 18 Sep 11 15:36:54
+Error connecting to www.google.com
+Error connecting to www.facebook.com
+Sun, 18 Sep 11 15:38:01
+Error connecting to 
+Sun, 18 Sep 11 15:38:33
+www.google.com took 5.30 seconds to load
+www.facebook.com took 11.03 seconds to load
+Sun, 18 Sep 11 15:46:22
+localhost:8008:
+Sun, 18 Sep 11 15:47:38
+localhost:
+Error connecting to server localhost
+
+Sun, 18 Sep 11 15:48:30
+192.168.0.255:
+Error connecting to server 192.168.0.255
+
+Sun, 18 Sep 11 15:48:49
+192.168.0.184:
+Error connecting to server 192.168.0.184
+
+Sun, 18 Sep 11 15:54:44
+localhost:
+Error connecting to server localhost
+
+Sun, 18 Sep 11 15:55:14
+192.168.0.184:
+Error connecting to server 192.168.0.184
+
