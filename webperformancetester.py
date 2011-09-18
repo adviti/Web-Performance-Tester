@@ -56,7 +56,7 @@ def checkInternalWebservers(servers,port):
 				end=time.time()
 				difference=end-start
 				print '%s took %2.2f seconds to load' %(each_file, difference )
-				logfile.write('%s took %2.2f seconds to load') %( each_file,difference ) 
+				logfile.write('%s took %2.2f seconds to load'%( each_file,difference )) 
 	except:
 		error_type, error_value = sys.exc_info()[:2]
 		if error_type== socket.timeout:
